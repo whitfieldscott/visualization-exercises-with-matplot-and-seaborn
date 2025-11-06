@@ -11,3 +11,15 @@ jupyter_contrib_nbextensions
 
 # Machine learning ----------------------------
 scikit-learn
+
+
+
+This is instructions from teacher to do the banknotebook exercise he gave us on Wednesday 10/29
+iris_df = sns.load_dataset('iris') iris_df.head(100) 
+
+
+ My previous gardener measured all 150 flowers in my garden.I would like to know which flowers are the biggest, what it even means to be "the biggest" (on average maybe?), and which flowers have the biggest variation in size. 
+
+ I want all of this for both petals AND sepals, and for length and width of each
+
+ I also want to know if there is any correlation between sepal size and petal size, or width and length, etc.
